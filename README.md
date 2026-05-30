@@ -6,7 +6,7 @@ I'm a **registered nurse** in Brazil's public health system (SUS) who codes to s
 
 - Pursuing my **Computer Science** degree
 - Working through Dr. Angela Yu's **100 Days of Code** Python bootcamp
-- Building and maintaining **UBS Bot** for the health clinic where I work
+- Building and maintaining **UBS Bot** for the public health clinic where I work
 
 #### 🛠️ Tech I work with
 

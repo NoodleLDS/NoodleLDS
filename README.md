@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Lucas 👋
 
-<!--
-**NoodleLDS/NoodleLDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **registered nurse** in Brazil's public health system (SUS) who codes to solve real problems on the job. Every project here came from an actual need at work — not from a tutorial.
 
-Here are some ideas to get you started:
+#### 🔭 What I'm up to now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pursuing my **Computer Science** degree
+- Working through Dr. Angela Yu's **100 Days of Code** Python bootcamp
+- Building and maintaining **UBS Bot** for the health clinic where I work
+
+#### 🛠️ Tech I work with
+
+`Python` · `C` · `Kotlin` · `FastAPI`
+
+#### 📌 Projects worth a look
+
+- **[UBS Bot](https://github.com/NoodleLDS/ubs-bot)** — a WhatsApp bot that automates patient intake at my clinic
+- **[Thermas App](https://github.com/NoodleLDS/thermas-app)** — computer vision with **YOLOv8** on a FastAPI backend
+- **[SnakeBrandi](https://github.com/NoodleLDS/SnakeBrandi)** — a single/multiplayer Snake game written in C
+
+#### 📫 Get in touch
+
+- LinkedIn:https://www.linkedin.com/in/enf-lucas-daniel/

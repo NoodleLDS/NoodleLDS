@@ -20,4 +20,4 @@ I'm a **registered nurse** in Brazil's public health system (SUS) who codes to s
 
 #### 📫 Get in touch
 
-- [LinkedIn:](https://www.linkedin.com/in/enf-lucas-daniel/)
+- LinkedIn:[Lucas Daniel](https://www.linkedin.com/in/enf-lucas-daniel/)

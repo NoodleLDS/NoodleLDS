@@ -17,6 +17,7 @@ I'm a **registered nurse** in Brazil's public health system (SUS) who codes to s
 - **[UBS Bot](https://github.com/NoodleLDS/ubs-bot)** — a WhatsApp bot that automates patient intake at my clinic
 - **[Thermas App](https://github.com/NoodleLDS/thermas-app)** — computer vision with **YOLOv8** on a FastAPI backend
 - **[SnakeBrandi](https://github.com/NoodleLDS/SnakeBrandi)** — a single/multiplayer Snake game written in C
+- **[Sowur_Shield](https://github.com/Joaofranciscopanta/sowur-shield)** — Insane development of a 2D game in Unity with my brother from another mother [John Panta]**(https://github.com/Joaofranciscopanta)**
 
 #### 📫 Get in touch
 
